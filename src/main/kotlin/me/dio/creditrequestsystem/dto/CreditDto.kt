@@ -2,7 +2,6 @@ package me.dio.creditrequestsystem.dto
 
 
 import jakarta.validation.constraints.Future
-import jakarta.validation.constraints.FutureOrPresent
 import jakarta.validation.constraints.Max
 import jakarta.validation.constraints.Min
 import jakarta.validation.constraints.NotNull

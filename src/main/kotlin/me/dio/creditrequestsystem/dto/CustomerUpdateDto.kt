@@ -10,7 +10,7 @@ data class CustomerUpdateDto(
     @field:NotEmpty(message = "Primeiro nome obrigatório!") val firstName: String,
     @field:NotEmpty(message = "Sobrenome obrigatório!") val lastName: String,
     @field:NotEmpty(message = "CPF obrigatório!")
-    @field:CPF(message = "CPF Invalido") val email: String,
+    @field:NotEmpty(message = "Email Obrigatório!") val email: String,
     @field:NotNull(message = "Por favor, preencher o valor da sua renda!") val income: BigDecimal,
     @field:NotEmpty(message = "CEP obrigatório!") val zipCode: String,
     @field:NotEmpty(message = "Nome da Rua obrigatório!") val street: String,
