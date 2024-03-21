@@ -89,8 +89,6 @@
 <h3>Autor</h3>
 
 <a href="https://www.instagram.com/pitercapistrano/">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/64323124?v=4" width="100px;" alt=""/>
- <br />
  <sub><b>Piter Capistrano</b></sub></a> <a href="https://www.instagram.com/pitercapistrano/" title="Instagram"></a>
 
 
