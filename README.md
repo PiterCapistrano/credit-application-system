@@ -86,11 +86,6 @@
 </ul>
 
 <hr>
-<h3>Autor</h3>
-
-<a href="https://www.instagram.com/pitercapistrano/">
- <sub><b>Piter Capistrano</b></sub></a> <a href="https://www.instagram.com/pitercapistrano/" title="Instagram"></a>
-
 
 <h3>Contribuindo</h3>
 
