@@ -88,15 +88,11 @@
 <hr>
 <h3>Autor</h3>
 
-<a href="https://www.instagram.com/camimi_la/">
+<a href="https://www.instagram.com/pitercapistrano/">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/64323124?v=4" width="100px;" alt=""/>
  <br />
- <sub><b>Camila Cavalcante</b></sub></a> <a href="https://www.instagram.com/camimi_la/" title="Instagram"></a>
+ <sub><b>Piter Capistrano</b></sub></a> <a href="https://www.instagram.com/pitercapistrano/" title="Instagram"></a>
 
-Feito com ❤️ por Cami-la 👋🏽 Entre em contato!
-
-[![Linkedin Badge](https://img.shields.io/badge/-Camila-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cami-la/)](https://www.linkedin.com/in/cami-la/)
-[![Gmail Badge](https://img.shields.io/badge/-camiladsantoscavalcante@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camiladsantoscavalcante@gmail.com)](mailto:camiladsantoscavalcante@gmail.com)
 
 <h3>Contribuindo</h3>
 
